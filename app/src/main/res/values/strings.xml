@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DroidBountyHunterKotlin</string>
+    <string name="tab_text_1">Fugitivos</string>
+    <string name="tab_text_2">Capturados</string>
+    <string name="tab_text_3">Acerca de</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="titulo_capturados">Capturados</string>
+    <string name="titulo_fugitivos">Fugitivos</string>
+    <string name="titulo_acerca_de">Acerca de…</string>
+    <string name="menu_agregar">Agregar</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_eliminar">Eliminar</string>
+    <string name="boton_capturar">Capturar</string>
+    <string name="campo_nombre">Nombre del Fugitivo</string>
+    <string name="etiqueta_desarrollo">Desarrollado por:</string>
+    <string name="nombre_desarrollador">Daniel Zamarron</string>
+    <string name="etiqueta_empresa">Kronos Co</string>
+    <string name="etiqueta_mensaje">Mensaje Establecido</string>
+    <string name="titulo_activity_agregar">Nuevo Fugitivo</string>
+    <string name="titulo_activity_detalle">Detalle Fugitivo</string>
+    <string name="fugitivoSuelto">El Fugitivo sigue suelto...</string>
+    <string name="fugitivoAtrapado">Atrapado!!!</string>
+    <string name="detalleNombreId">%s - %s</string>
+    <string name="boton_foto">Tomar Foto</string>
+    <string name="boton_mapa">Ver Mapa</string>
+    <string name="nocapturado">Aun sin capturar</string>
+</resources>

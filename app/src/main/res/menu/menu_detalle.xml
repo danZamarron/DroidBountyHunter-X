@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://toolbarCapturarschemas.android.com/tools"
+        tools:context=".DetalleActivity">
+
+    <item
+            android:id="@+id/toolbarCapturar"
+            android:icon="@drawable/ic_save"
+            android:orderInCategory="200"
+            android:title="Capturar"
+            app:showAsAction="always" />
+    <item
+            android:id="@+id/toolbarEliminar"
+            android:icon="@drawable/ic_delete"
+            android:orderInCategory="100"
+            android:title="Eliminar"
+            app:showAsAction="always" />
+    <item
+            android:id="@+id/toolbarFoto"
+            android:icon="@drawable/ic_addphoto"
+            android:orderInCategory="200"
+            android:title="Tomar Foto"
+            app:showAsAction="always" />
+    <item
+            android:id="@+id/toobarGPS"
+            android:icon="@drawable/ic_personpin"
+            android:orderInCategory="400"
+            android:title="GPS"
+            app:showAsAction="always" />
+</menu>
